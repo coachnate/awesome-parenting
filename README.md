@@ -13,3 +13,7 @@ Please read the [Contributing](CONTRIBUTING.md) and [Collaboration](COLLABORATIO
  - Youtube
  - Apps
  - Not so awesome
+
+## Apps
+
+- [Ripple](https://ripplefocus.github.io/) - Free Android and iOS 16+ parental screen-time blocker with parent unlock code, uninstall lock, monotonic-clock cooldown, and Shorts or WeChat Channels blocking while chat stays available.
